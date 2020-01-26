@@ -10,4 +10,4 @@ Feature: Facebook Login
 
     Examples: 
       | user                | pwd       |
-      | aseraus@hotmail.com | salsa9228 |
+      | aseraus@hotmail.com |xxxxxx     |
